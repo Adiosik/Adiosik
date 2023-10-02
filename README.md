@@ -1,6 +1,6 @@
 <h1 align="left">Ahoj, jsem začínající frontend developer a kóder!👋</h1>
 
-<p align="left">Mé jméno je Daniel Šimanský a jsem nadšeným začínajícím vývojářem se zaměřením na frontend. Mým cílem je vytvářet úžasné webové stránky a aplikace, které budou zlepšovat uživatelskou zkušenost a přinášet nové nápady do digitálního světa.</p>
+<p align="left">Mé jméno je Daniel Šimanský a jsem nadšeným vývojářem se zaměřením na frontend. Mým cílem je vytvářet úžasné webové stránky a aplikace, které budou zlepšovat uživatelskou zkušenost a přinášet nové nápady do digitálního světa.</p>
 
 <h2 align="left">About me</h2>
 
