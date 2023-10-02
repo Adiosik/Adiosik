@@ -8,7 +8,7 @@
 
 <h2 align="left">Dovednosti</h2>
 
-<p align="left">Zde jsou dovedností, které zatím ovládám:</p>
+<p align="left">Zde jsou dovednosti, které zatím ovládám:</p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
