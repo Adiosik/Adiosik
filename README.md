@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">Mám zkušenosti s tvorbou struktury webových stránek. Znalost CSS mi umožňuje vytvářet moderní a responzivní design. Pracuji s flexboxem, gridem a přizpůsobivým designem. Používám pro interaktivitu na webových stránkách. Rozumím základním konceptům JavaScriptu a pracuji s knihovnami jako jQuery. Mám zkušenosti s verzováním kódu pomocí Gitu a GitHubu, což mi umožňuje spolupracovat s ostatními a udržovat své projekty aktuální a také mám velkou vášeň pro učení a stále se snažím zdokonalovat.</p>
+<p align="left">Mám zkušenosti s tvorbou struktury webových stránek. Znalost CSS mi umožňuje vytvářet moderní a responzivní design. Pracuji s flexboxem, gridem a přizpůsobivým designem. Používám pro interaktivitu na webových stránkách. Rozumím základním konceptům JavaScriptu a pracuji s knihovnami jako jQuery. Mám zkušenosti s verzováním kódu pomocí Gitu a GitHubu, což mi umožňuje spolupracovat s ostatními a udržovat své projekty aktuální a v neposlední řadě mám velkou vášeň pro učení a stále se snažím zdokonalovat.</p>
 
 <h2 align="left">Skills and Tools</h2>
 
