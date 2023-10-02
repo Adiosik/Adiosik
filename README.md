@@ -15,6 +15,8 @@
   <img width="15"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
   <img width="15"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"/>
+  <img width="15"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>
   <img width="15"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
