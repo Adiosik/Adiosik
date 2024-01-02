@@ -1,10 +1,10 @@
-<h1 align="left">Ahoj, jsem začínající frontend developer👋</h1>
+<h1 align="left">Hello, I'm a beginner frontend developer 👋</h1>
 
-<p align="left">Mé jméno je <strong>Daniel Šimanský</strong> a jsem začínajícím vývojářem se specializací na front-end. Mým cílem je vytvářet moderní webové stránky a aplikace, které nejenom zlepšují uživatelskou zkušenost, ale také mi umožňují živit se touto činností na plný úvazek. Těším se na to, jak budu přinášet nové nápady do digitálního světa a rozvíjet svou kariéru jako profesionální vývojář.</p>
+<p align="left">My name is <strong>Daniel Šimanský</strong>, and I'm an aspiring developer specializing in front-end technologies. My goal is to create modern websites and applications that not only enhance the user experience but also allow me to pursue a full-time career in this field. I look forward to bringing new ideas to the digital world and advancing my career as a professional developer.</p>
 
-<h2 align="left">Dovednosti</h2>
+<h2 align="left">Skills</h2>
 
-<p align="left">Zde jsou dovednosti, které zatím ovládám:</p>
+<p align="left">Here are the skills I currently possess:</p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
