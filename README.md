@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm a beginner frontend developer 👋</h1>
 
-<p align="left">My name is <strong>Daniel Šimanský</strong>, and I'm an aspiring developer specializing in front-end technologies. My goal is to create modern websites and applications that not only enhance the user experience but also allow me to pursue a full-time career in this field. I look forward to bringing new ideas to the digital world and advancing my career as a professional developer.</p>
+<p align="left">My name is <strong>Daniel Šimanský</strong> and I'm an aspiring developer specializing in front-end technologies. My goal is to create modern websites and applications that not only enhance the user experience but also allow me to pursue a full-time career in this field. I look forward to bringing new ideas to the digital world and advancing my career as a professional developer.</p>
 
 <h2 align="left">Skills</h2>
 
