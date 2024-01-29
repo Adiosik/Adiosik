@@ -7,4 +7,9 @@ My name is **Daniel Šimanský** and I'm an aspiring developer specializing in f
 Here are the skills I currently possess:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,figma)](https://skillicons.dev)
-
+- **HTML**
+- **CSS** BEM
+- **JavaScript**
+- **React**
+- **Git**
+- **Figma**
