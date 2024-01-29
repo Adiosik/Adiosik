@@ -8,7 +8,7 @@ Here are the skills I currently possess:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,figma)](https://skillicons.dev)
 - **HTML**
-- **CSS** BEM
+- **CSS**
 - **JavaScript**
 - **React**
 - **Git**
