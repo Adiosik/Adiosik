@@ -1,6 +1,6 @@
 # Hello, I'm a beginner frontend developer 👋
 
-My name is **Daniel Šimanský** and I'm an aspiring developer specializing in front-end technologies. My goal is to create modern websites and applications that not only enhance the user experience but also allow me to pursue a full-time career in this field. I look forward to bringing new ideas to the digital world and advancing my career as a professional developer.
+My name is **Daniel Šimanský** and I'm just starting to explore the world of web development. My goal is to learn modern technologies and create visually appealing and functional websites. I'm looking forward to the journey of exploration and developing my skills as a developer.
 
 ## Skills
 
