@@ -6,11 +6,12 @@ My name is **Daniel Šimanský** and I'm just starting to explore the world of w
 
 Here are the skills I currently possess:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vscode,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vscode,git,figma)](https://skillicons.dev)
 - **HTML**
 - **CSS**
 - **JavaScript**
 - **React**
+- **Bootstrap**
 - **Visual Studio Code**
 - **Git**
 - **Figma**
