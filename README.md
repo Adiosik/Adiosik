@@ -1,4 +1,4 @@
-# Hello, I'm a beginner frontend developer 👋
+# Hello, I'm frontend developer 👋
 
 My name is **Daniel Šimanský** and I'm just starting to explore the world of web development. My goal is to learn modern technologies and create visually appealing and functional websites. I'm looking forward to the journey of exploration and developing my skills as a developer.
 
